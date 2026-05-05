@@ -29,3 +29,7 @@
 ### 🔹 Conclusion
 
 > In conclusion, AI can make me more productive and powerful if I use it correctly. But if I depend on it blindly, it can slow down my learning. So my goal is to use AI as a tool, not as a replacement for my own thinking and skills.
+
+
+## 🔗 Submission Info
+This assignment is submitted for Programming Hero AI Career Summit Bootcamp.
